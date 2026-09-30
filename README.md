@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[23212180]; L23212180@tectijuana.edu.mx
+Zaid Alexander Arredondo Medina\[23212180]; L23212180@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
