@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información de la estudiante
+## Información del estudiante
 
 Zaid Alexander Arredondo Medina\[23212180]; L23212180@tectijuana.edu.mx
 
